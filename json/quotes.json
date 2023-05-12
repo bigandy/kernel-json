@@ -1,0 +1,155 @@
+[
+	{
+		"id": 1,
+		"quote": "How about fricken’ no?!",
+		"by": "Gary Goodspeed",
+		"character": "https://finalspaceapi.com/api/v0/character/1",
+		"image": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.jpg",
+		"character_id": 1,
+		"episode_id": 1
+	},
+	{
+		"id": 1,
+		"quote": "How about fricken’ no?!",
+		"by": "Gary Goodspeed",
+		"character": "https://finalspaceapi.com/api/v0/character/1",
+		"image": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.jpg",
+		"character_id": 1,
+		"episode_id": 2
+	},
+	{
+		"id": 1,
+		"quote": "How about fricken’ no?!",
+		"by": "Gary Goodspeed",
+		"character": "https://finalspaceapi.com/api/v0/character/1",
+		"image": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.jpg",
+		"character_id": 1,
+		"episode_id": 3
+	},
+	{
+		"id": 1,
+		"quote": "How about fricken’ no?!",
+		"by": "Gary Goodspeed",
+		"character": "https://finalspaceapi.com/api/v0/character/1",
+		"image": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.jpg",
+		"character_id": 1,
+		"episode_id": 5
+	},
+	{
+		"id": 6,
+		"quote": "Chookity Dookity.",
+		"by": "Mooncake",
+		"character": "https://finalspaceapi.com/api/v0/character/2",
+		"image": "https://finalspaceapi.com/api/character/avatar/mooncake.jpg",
+		"character_id": 2,
+		"episode_id": 1
+	},
+	{
+		"id": 6,
+		"quote": "Chookity Dookity.",
+		"by": "Mooncake",
+		"character": "https://finalspaceapi.com/api/v0/character/2",
+		"image": "https://finalspaceapi.com/api/character/avatar/mooncake.jpg",
+		"character_id": 2,
+		"episode_id": 2
+	},
+	{
+		"id": 10,
+		"quote": "Speaking of problems, maybe you should leave before you become one.",
+		"by": "Quinn Ergon",
+		"character": "https://finalspaceapi.com/api/v0/character/3",
+		"image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg",
+		"character_id": 3,
+		"episode_id": 1
+	},
+	{
+		"id": 10,
+		"quote": "Speaking of problems, maybe you should leave before you become one.",
+		"by": "Quinn Ergon",
+		"character": "https://finalspaceapi.com/api/v0/character/3",
+		"image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg",
+		"character_id": 3,
+		"episode_id": 2
+	},
+	{
+		"id": 10,
+		"quote": "Speaking of problems, maybe you should leave before you become one.",
+		"by": "Quinn Ergon",
+		"character": "https://finalspaceapi.com/api/v0/character/3",
+		"image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg",
+		"character_id": 3,
+		"episode_id": 3
+	},
+	{
+		"id": 10,
+		"quote": "Speaking of problems, maybe you should leave before you become one.",
+		"by": "Quinn Ergon",
+		"character": "https://finalspaceapi.com/api/v0/character/3",
+		"image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg",
+		"character_id": 3,
+		"episode_id": 5
+	},
+	{
+		"id": 15,
+		"quote": "You always look like crap, but right now you look like if crap built a house... on crap.",
+		"by": "Little Cato",
+		"character": "https://finalspaceapi.com/api/v0/character/4",
+		"image": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg",
+		"character_id": 4,
+		"episode_id": 2
+	},
+	{
+		"id": 15,
+		"quote": "You always look like crap, but right now you look like if crap built a house... on crap.",
+		"by": "Little Cato",
+		"character": "https://finalspaceapi.com/api/v0/character/4",
+		"image": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg",
+		"character_id": 4,
+		"episode_id": 3
+	},
+	{
+		"id": 15,
+		"quote": "You always look like crap, but right now you look like if crap built a house... on crap.",
+		"by": "Little Cato",
+		"character": "https://finalspaceapi.com/api/v0/character/4",
+		"image": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg",
+		"character_id": 4,
+		"episode_id": 5
+	},
+	{
+		"id": 19,
+		"quote": "Call me that again, and I'll kill you.",
+		"by": "Avocato",
+		"character": "https://finalspaceapi.com/api/v0/character/5",
+		"image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg",
+		"character_id": 5,
+		"episode_id": 1
+	},
+	{
+		"id": 19,
+		"quote": "Call me that again, and I'll kill you.",
+		"by": "Avocato",
+		"character": "https://finalspaceapi.com/api/v0/character/5",
+		"image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg",
+		"character_id": 5,
+		"episode_id": 2
+	},
+	{
+		"id": 19,
+		"quote": "Call me that again, and I'll kill you.",
+		"by": "Avocato",
+		"character": "https://finalspaceapi.com/api/v0/character/5",
+		"image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg",
+		"character_id": 5,
+		"episode_id": 3
+	},
+	{
+		"id": 19,
+		"quote": "Call me that again, and I'll kill you.",
+		"by": "Avocato",
+		"character": "https://finalspaceapi.com/api/v0/character/5",
+		"image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg",
+		"character_id": 5,
+		"episode_id": 5
+	}
+]

@@ -1,0 +1,343 @@
+[
+	{
+		"id": 1,
+		"name": "Gary Goodspeed",
+		"status": "Alive",
+		"species": "Human",
+		"gender": "Male",
+		"hair": "Blonde",
+		"alias": [
+			"The Gary (by Lord Commander and Invictus)",
+			"Thunder Bandit(code name)",
+			"Star Dragon(new code name)",
+			"Primate(By Clarence)",
+			"The Captain (self-proclaimed)",
+			"Mommy (by the Dewinter children)",
+			"Jerry by (Quinn)",
+			"Gerald (by Quinn and the S.A.M.E.S)",
+			"Humanoid trash (by Avocato)",
+			"Generic Blonde Guy (by Ash)",
+			"No-Good Thief (by Avocato/Invictus)",
+			"Little Bastard (by Sheryl)",
+			"Larry Tumbleweed (by Tribore)",
+			"Harry Hoodseed (by Tribore)",
+			"Leslie (by Tribore)",
+			"Barry (by Tribore)",
+			"The Fool Who Died A Thousand Deaths (by Invictus)"
+		],
+		"origin": "Earth",
+		"abilities": [
+			"Piloting",
+			"Marksmanship",
+			"Hand-to-hand combat",
+			"Weapons: Blasters",
+			"Weapons: Black hole gun (briefly)",
+			"Weapons: Robot arm",
+			"Weapons: Laser gun",
+			"Weapons: Laser sword"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.png",
+		"quote": {
+			"id": 1,
+			"quote": "How about fricken’ no?!",
+			"by": "Gary Goodspeed",
+			"character": "https://finalspaceapi.com/api/v0/character/1",
+			"image": "https://finalspaceapi.com/api/character/avatar/gary_goodspeed.jpg"
+		},
+		"episode_ids": [
+			1
+		]
+	},
+	{
+		"id": 2,
+		"name": "Mooncake",
+		"status": "Unknown",
+		"species": "Mooncake's Species",
+		"gender": "None (referred to as male)",
+		"hair": "None",
+		"alias": [
+			"Specimen E - 351",
+			"Little Buddy",
+			"Planet Destroyer",
+			"Dude cake",
+			"Little Guy",
+			"The Key (by Lord Commander, Invictus, and Ash)",
+			"The Missing Piece (by the Arachnitects)",
+			"Homeslice (by Bolo)",
+			"Booger Ball (by Kevin Van Newton)"
+		],
+		"origin": "Outer space",
+		"abilities": [
+			"Hovering",
+			"Firing Laser Beams",
+			"Planetary Destruction"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/mooncake.jpg",
+		"quote": {
+			"id": 6,
+			"quote": "Chookity Dookity.",
+			"by": "Mooncake",
+			"character": "https://finalspaceapi.com/api/v0/character/2",
+			"image": "https://finalspaceapi.com/api/character/avatar/mooncake.jpg"
+		},
+		"episode_ids": [
+			2
+		]
+	},
+	{
+		"id": 3,
+		"name": "Quinn Ergon",
+		"status": "Alive",
+		"species": "Human",
+		"gender": "Female",
+		"hair": "Dark Brown",
+		"alias": [
+			"Nightfall(codename)",
+			"Muy Bueno Super Spicy Lady (by Gary)",
+			"Magnificent Goddess (by Biskit)"
+		],
+		"origin": "Earth",
+		"abilities": [
+			"Astrophysicist",
+			"Engineer",
+			"Piloting",
+			"Hand - to - hand Combat"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg",
+		"quote": {
+			"id": 10,
+			"quote": "Speaking of problems, maybe you should leave before you become one.",
+			"by": "Quinn Ergon",
+			"character": "https://finalspaceapi.com/api/v0/character/3",
+			"image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg"
+		},
+		"episode_ids": [
+			3
+		]
+	},
+	{
+		"id": 5,
+		"name": "Avocato",
+		"status": "Alive",
+		"species": "Ventrexian",
+		"gender": "Male",
+		"hair": "Dark Teal / White ",
+		"alias": [
+			"General Avocato",
+			"Mr. Whiskers (by Gary)",
+			"Cat Guy (by Gary)",
+			"Dad (by Little Cato)",
+			"My Boyfriend (by Gary)",
+			"Furry Fantasy Dad Guy (by Biskit)",
+			"Daddy-O (by Little Cato)",
+			"Pops (by Little Cato)",
+			"Ventrexian Filth (by Ash)"
+		],
+		"origin": "Ventrexia",
+		"abilities": [
+			"Marksmanship",
+			"Surgery",
+			"Combat prowess"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/avocato.jpg",
+		"quote": {
+			"id": 19,
+			"quote": "Call me that again, and I'll kill you.",
+			"by": "Avocato",
+			"character": "https://finalspaceapi.com/api/v0/character/5",
+			"image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg"
+		},
+		"episode_ids": [
+			5
+		]
+	},
+	{
+		"id": 6,
+		"name": "KVN",
+		"status": "Operational",
+		"species": "Robot",
+		"gender": "None(referred to as Male)",
+		"hair": "None",
+		"alias": [
+			"Decaying Pile of Fecal Matter (by Gary)",
+			"Waste of Life (by H.U.E.)",
+			"Beelzebub (by Gary)"
+		],
+		"origin": "Some Factory",
+		"abilities": [
+			"Hovering ",
+			"Marksmanship",
+			"Solving riddles",
+			"Nigh-Invulnerability"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/kvn.jpg",
+		"episode_ids": [
+			6
+		]
+	},
+	{
+		"id": 9,
+		"name": "H.U.E",
+		"status": "Operational",
+		"species": "Artificial Intelligence(Season 1) Robot(Season 2)",
+		"gender": "None(referred to as Male)",
+		"hair": "None",
+		"alias": [
+			"Heuristic Unified Entity ",
+			"H.U.E.Buttersmooth "
+		],
+		"origin": "Unknown",
+		"abilities": [
+			"Controls on the Galaxy One ",
+			"Strength(Season 2)",
+			"Stretchable Limbs(Season 2)",
+			"Flight(Season 2)"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/hue.jpg",
+		"episode_ids": [
+			9
+		]
+	},
+	{
+		"id": 11,
+		"name": "Clarence",
+		"status": "Deceased",
+		"gender": "Male",
+		"hair": "Black",
+		"alias": [
+			"Clarence Polkawitz ",
+			"Slimy Little Hobgoblin (by Nightfall)",
+			"Dad (by Fox and Ash)",
+			"Daddy (by Fox)",
+			"Glarence",
+			"Mr. Naughty (by Cataloupe)",
+			"Deceitful, Cowardly, Untrustworthy Con (by Ash)",
+			"Snake (by Gary)",
+			"Rat (by Little Cato)",
+			"Disgusting Little Toad (by Sheryl)"
+		],
+		"origin": "Unknown",
+		"abilities": [
+			"Multiple Forms - a snake-rat hybrid and a large, wasp-like alien ",
+			"Flight",
+			"Quick Heal",
+			"Regenerate"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/clarence.jpg",
+		"episode_ids": [
+			11
+		]
+	},
+	{
+		"id": 4,
+		"name": "Little Cato",
+		"status": "Alive",
+		"species": "Ventrexian",
+		"gender": "Male",
+		"hair": "Orange,Turquoise(dyed)",
+		"alias": [
+			"Small Fry",
+			"Spider Cat ",
+			"Man Cat",
+			"Hell Cat",
+			"Little Avocato",
+			"Washboy (by Clarence)",
+			"Mr. Yumsters (by Ash)",
+			"Stupid Little Ventrexian (by Fox)"
+		],
+		"origin": "Ventrexia",
+		"abilities": [
+			"Electronics",
+			"Acrobatics",
+			"Combat skills"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg",
+		"quote": {
+			"id": 15,
+			"quote": "You always look like crap, but right now you look like if crap built a house... on crap.",
+			"by": "Little Cato",
+			"character": "https://finalspaceapi.com/api/v0/character/4",
+			"image": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg"
+		},
+		"episode_ids": [
+			4
+		]
+	},
+	{
+		"id": 10,
+		"name": "Tribore Menendez",
+		"status": "Alive",
+		"species": "Unknown",
+		"gender": "Genderfluid (his/hers gender changes every 6 months, currently identifies as a male)",
+		"hair": "None",
+		"alias": [
+			"The Leader (or Head) of the Resistance",
+			"Shepherd of Hope",
+			"Patron Saint of the Un-binary",
+			"Acceptor of Monogrammed Leather Gifts",
+			"Papa (by Quatronostro)"
+		],
+		"origin": "Hatched",
+		"abilities": [
+			"Competent Leader",
+			"Combatant",
+			"Capable Shrink"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/tribore.jpg",
+		"episode_ids": [
+			10
+		]
+	},
+	{
+		"id": 12,
+		"name": "Biskit",
+		"status": "Alive",
+		"species": "Tiger Tiger",
+		"gender": "Male",
+		"hair": "White and black",
+		"alias": [
+			"Biskit the Tiger Tiger",
+			"Tiny Crumble Bear (by Gary)"
+		],
+		"origin": "Unknown",
+		"abilities": [
+			"Technical expertise",
+			"Powerful roar"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/biskit.png",
+		"episode_ids": [
+			12
+		]
+	},
+	{
+		"id": 14,
+		"name": "Lord Commander",
+		"status": "Imprisoned",
+		"species": "Titan (currently), Lord Commander's Species(formerly)",
+		"gender": "Male",
+		"hair": "None",
+		"alias": [
+			"Fun Sized Devil (by Gary)",
+			"Cosmic Tic - Tac ",
+			"Jack(real name)",
+			"Power Thirsty Pint-Sized Imp (by Gary)",
+			"Little Green Tic-Tac Cosmic Butt-Head (by Gary)",
+			"Little Prince (by Eric)",
+			"Hose Bag (by Ash)",
+			"Child (by Invictus)"
+		],
+		"origin": "Unknown",
+		"abilities": [
+			"Light(Telekinesis)",
+			"Flight",
+			"Energy Projection",
+			"Size-shifting",
+			"Shapeshifting",
+			"Superhuman strength"
+		],
+		"img_url": "https://finalspaceapi.com/api/character/avatar/lord_commander.png",
+		"episode_ids": [
+			14
+		]
+	}
+]
